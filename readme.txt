@@ -6,4 +6,8 @@ Good morning
 
 good evening
 
-Good after noon
+Good afternoon
+
+Good night
+
+Great bye
