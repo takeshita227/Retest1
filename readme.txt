@@ -1,13 +1,14 @@
 Hello
 
-good bye
+Good bye
 
 Good morning
 
-good evening
+Good evening
 
 Good afternoon
 
 Good night
 
 Great bye
+
