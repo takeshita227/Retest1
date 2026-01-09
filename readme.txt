@@ -1,6 +1,6 @@
 Hello
 
-Good bye
+Good-bye
 
 Good morning
 
@@ -10,5 +10,5 @@ Good afternoon
 
 Good night
 
-Great bye
+Great-bye
 
